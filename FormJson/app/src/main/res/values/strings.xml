@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FormJson</string>
+    <string name="nome">Nome</string>
+    <string name="sexo">Sexo</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="enviar">Enviar</string>
+    <string name="data_default">--/--/----</string>
+    <string name="data">Data nasc</string>
+    <string name="select">Selecionar</string>
+    <string name="json">{\n\t\"nome\":\"teste\"\n}</string>
+    <string-array name="sexo_array">
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+    <string-array name="estado_civil_array">
+        <item>Solteiro</item>
+        <item>Casado</item>
+        <item>Separado</item>
+        <item>Divorciado</item>
+        <item>Viúvo</item>
+    </string-array>
+</resources>
